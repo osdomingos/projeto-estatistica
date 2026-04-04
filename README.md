@@ -20,6 +20,8 @@ A fazer (4/4 - 10/4/2026):
 </ol>
 </i>
 
+<br><br>
+
 <img src="https://2traveldads.com/wp-content/uploads/Taylor-Family-with-Monet-Waterlilies-painting-at-MOMA-Musuem-of-Modern-Art-New-York-City-1.jpg">
 
 <hr>
