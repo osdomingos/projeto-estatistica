@@ -14,7 +14,7 @@ A fazer (4/4 - 10/4/2026):
 
 <i>
 <ol>
-    <li>Carregar o dataset do MoMA ❌</li>
+    <li>Carregar o dataset do MoMA ✅</li>
     <li>Mapear colunas disponíveis ❌</li>
     <li>Limpeza inicial: nulos, tipos, inconsistências ❌</li>
 </ol>
